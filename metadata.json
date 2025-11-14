@@ -1,0 +1,5 @@
+{
+  "name": "ZenTask - Tareas con Motivación",
+  "description": "Una aplicación de lista de tareas estilo escritorio que te ayuda a gestionar tus tareas y te proporciona frases motivacionales para superar la procrastinación, con el poder de Gemini.",
+  "requestFramePermissions": []
+}
